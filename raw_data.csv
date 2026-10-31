@@ -1,0 +1,13 @@
+Customer_ID,Name,Age,City,Email,Purchase_Amount,Order_Date
+C001,Aarav Sharma,24,Delhi,aarav@example.com,1200,2026-01-05
+C002, priya singh ,29,delhi,PRIYA@EXAMPLE.COM,850,05/01/2026
+C003,Rahul Verma,thirty,Gurugram,rahul.example.com,500,2026-01-07
+C004,NEHA KUMARI,22,Noida,neha@example.com,"1,500",2026-01-08
+C005,Aarav Sharma,24,Delhi,aarav@example.com,1200,2026-01-05
+C006,Kabir Khan,-5,Mumbai,kabir@example.com,700,2026-01-10
+C007,,31,Pune,riya@example.com,900,2026-01-11
+C008,Riya Mehta,27,NOIDA,riya@example.com,650,invalid
+C009,Ishaan Gupta,,Jaipur,ishaan@example.com,0,2026-01-13
+C010,Simran Kaur,26,Delhi,,1100,2026-01-14
+C011,Dev Patel,150,,dev@example.com,250,2026-01-15
+C012,Anaya Rao,23,Pune,anaya@example.com,abc,2026-01-16
